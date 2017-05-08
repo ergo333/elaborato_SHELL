@@ -1,0 +1,7 @@
+Error parameters: 
+
+vboxMACman vbox dbOutput
+
+	- vbox is the fileName.vbox file
+
+	- dbOutput is the output file name 
